@@ -1,2 +1,2 @@
 # jintaoking.github.io
-I am learning use Hexo and Github pages to create my blog
+I am learning how to use Hexo and Github pages to create my blog
